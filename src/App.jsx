@@ -3,7 +3,7 @@ import TodoForm from "./components/TodoForm";
 import Todo from "./components/Todo";
 import { v4 as uuidv4 } from "uuid";
 import "./App.css";
-import EditTodoForm from "./EditTodoForm";
+import EditTodoForm from "./components/EditTodoForm";
 uuidv4();
 
 function App() {
